@@ -3,6 +3,7 @@ package de.telran.lesson3.domain_layer.entity.jpa;
 import de.telran.lesson3.domain_layer.entity.Cart;
 import de.telran.lesson3.domain_layer.entity.Customer;
 import jakarta.persistence.*;
+import lombok.extern.java.Log;
 
 @Entity
 @Table(name = "customer")

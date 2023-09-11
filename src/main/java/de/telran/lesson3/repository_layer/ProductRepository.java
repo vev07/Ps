@@ -1,6 +1,5 @@
 package de.telran.lesson3.repository_layer;
 
-import de.telran.lesson3.domain_layer.entity.CommonProduct;
 import de.telran.lesson3.domain_layer.entity.Product;
 
 import java.util.List;

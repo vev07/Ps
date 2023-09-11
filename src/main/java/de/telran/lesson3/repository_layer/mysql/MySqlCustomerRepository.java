@@ -1,9 +1,10 @@
-package de.telran.lesson3.repository_layer;
+package de.telran.lesson3.repository_layer.mysql;
 
 import de.telran.lesson3.domain_layer.entity.*;
 import de.telran.lesson3.domain_layer.entity.common.CommonCart;
 import de.telran.lesson3.domain_layer.entity.common.CommonCustomer;
 import de.telran.lesson3.domain_layer.entity.common.CommonProduct;
+import de.telran.lesson3.repository_layer.CustomerRepository;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
